@@ -8,9 +8,6 @@ SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='ONLY_FULL_GROUP_BY,STRICT_TRANS_TABLES,N
 -- Schema Tabla1
 -- -----------------------------------------------------
 
--- -----------------------------------------------------
--- Schema Tabla1
--- -----------------------------------------------------
 CREATE SCHEMA IF NOT EXISTS `Tabla1` DEFAULT CHARACTER SET utf8 ;
 USE `Tabla1` ;
 
